@@ -1,0 +1,5 @@
+# dsh-turn-rail-pin bundle patch: one host row over the web profile.
+# 本地插件：让会话侧边目录条（turnOutline rail）常显。
+- insert:
+    - id: turn-rail-pin
+      name: dsh-turn-rail-pin
